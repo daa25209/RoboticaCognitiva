@@ -1,0 +1,6 @@
+ros2 launch merlin_prac demo.launch.py 
+
+ros2 run  merlin_prac nav_action_node.py
+
+ros2 run merlin_prac mision_node.py
+
